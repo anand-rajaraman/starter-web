@@ -8,6 +8,10 @@ Show different parts of a Git repo and its various commands using a simple proje
 
 ## Purpose
 
+Provide simple examples of git commands.
+
 ## Deployment
+
+Deploy this simple project on any web server or even the local file system.
 
 ## How To Contribute
