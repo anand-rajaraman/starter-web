@@ -20,4 +20,4 @@ Please fork this reposiroty and issue pull requests for review.
 
 ### Copyright
 
-Anand Rajaraman 2018	
+Anand Rajaraman 2018. All rights reserved.
