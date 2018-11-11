@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Anand Rajaraman	anand.rajaraman@gmail.com
 
 # THANKS
 
