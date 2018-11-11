@@ -16,6 +16,8 @@ Deploy this simple project on any web server or even the local file system.
 
 ## How To Contribute
 
+Please fork this reposiroty and issue pull requests for review.
+
 ### Copyright
 
 Anand Rajaraman 2018	
