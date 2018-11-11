@@ -15,3 +15,7 @@ Provide simple examples of git commands.
 Deploy this simple project on any web server or even the local file system.
 
 ## How To Contribute
+
+### Copyright
+
+Anand Rajaraman 2018	
